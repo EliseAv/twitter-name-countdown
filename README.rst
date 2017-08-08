@@ -42,6 +42,6 @@ Test it once by running: ``./renamer.py``
 
 If it's good, run the following command to schedule it to run every midnight::
 
-    (crontab -l 2>/dev/null; echo "0 0 * * * /usr/bin/python3 /home/pi/twitter_name_countdown/renamer.py") | crontab -
+    (crontab -l 2>/dev/null; echo "0 0 * * * /usr/bin/python3 /home/pi/twitter-name-countdown/renamer.py") | crontab -
 
 Aaand done!
