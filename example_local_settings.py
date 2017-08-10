@@ -10,9 +10,6 @@ MY_CONSUMER_SECRET = 'Your Consumer Secret Key'
 MY_ACCESS_TOKEN_KEY = 'Your Twitter API Access Token Key'
 MY_ACCESS_TOKEN_SECRET = 'Your Access Token Secret'
 
-# The name of the account you're counting days.
-TWEET_ACCOUNT = 'jack'
-
 # Target date (use YYYY-MM-DD notation), this is day 0.
 TARGET_DATE = '2017-08-25'
 
